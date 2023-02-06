@@ -1,0 +1,1 @@
+ls *.png > list.txt
